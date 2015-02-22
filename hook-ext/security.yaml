@@ -1,0 +1,11 @@
+# Setup a pepper to generate the encrypted password.
+# auth_pepper: 9f3115a167332850e0ef34a2705c48f5e276a37d
+
+# Whitelist of allowed host origins
+allowed_origins:
+  - '*'
+
+# collection permissions
+collections:
+  auths:
+    allow: '*'

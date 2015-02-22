@@ -1,0 +1,31 @@
+{
+  "name": "hook-examples",
+  "version": "1.0.0",
+  "description": "hook examples directory",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.7.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.2.0"
+  },
+  "scripts": {
+    "start": "http-server .",
+    "gh-pages": "node scripts/publish.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doubleleft/hook-examples"
+  },
+  "keywords": [
+    "hook",
+    "baas",
+    "examples"
+  ],
+  "author": "Endel Dreyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doubleleft/hook-examples/issues"
+  },
+  "homepage": "https://github.com/doubleleft/hook-examples"
+}
