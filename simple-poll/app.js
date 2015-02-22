@@ -10,9 +10,9 @@ $(function() {
   // Create hook instance with your application credentials
   //
   hook = new Hook.Client({
-    app_id: 6,
-    key: "18b1927e1d3f2623fd9208f77490b5bb",
-    endpoint: "http://localhost:4665/"
+    app_id: 1,
+    key: "95e6e9c7ac3add84588fecfa43280ee9",
+    endpoint: "http://ancient-dusk-7627.herokuapp.com/"
   })
 
   update_user_status();

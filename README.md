@@ -3,7 +3,7 @@ hook-examples
 
 A collection of [hook](https://github.com/doubleleft/hook) usage examples.
 
-- [Simple Pool](simple-poll)
+- [Simple Pool](simple-poll) ([online demo](http://doubleleft.github.io/hook-examples/simple-poll/index.html))
 
 Running locally
 ---
@@ -12,7 +12,7 @@ Run local static server:
 
 ```
 npm install
-npm run server
+npm start
 Starting up http-server, serving . on: http://0.0.0.0:8080
 ```
 
