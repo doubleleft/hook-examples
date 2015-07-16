@@ -6,14 +6,14 @@ Demonstrates:
 
 Authentication:
 
-- [Auth.login](http://doubleleft.github.io/hook-javascript/classes/Hook.Auth.html#method_login)
-- [Auth.register](http://doubleleft.github.io/hook-javascript/classes/Hook.Auth.html#method_register)
-- [Auth.logout](http://doubleleft.github.io/hook-javascript/classes/Hook.Auth.html#method_logout)
+- [hook.auth.login()](http://doubleleft.github.io/hook-javascript/classes/Hook.Auth.html#method_login)
+- [hook.auth.register()](http://doubleleft.github.io/hook-javascript/classes/Hook.Auth.html#method_register)
+- [hook.auth.logout()](http://doubleleft.github.io/hook-javascript/classes/Hook.Auth.html#method_logout)
 
 Collections:
 
-- [Collection.where](http://doubleleft.github.io/hook-javascript/classes/Hook.Collection.html#method_where)
-- [Collection.create](http://doubleleft.github.io/hook-javascript/classes/Hook.Collection.html#method_create)
-- [Collection.increment](http://doubleleft.github.io/hook-javascript/classes/Hook.Collection.html#method_increment)
-- [Collection.sort](http://doubleleft.github.io/hook-javascript/classes/Hook.Collection.html#method_sort)
-- [Collection.each](http://doubleleft.github.io/hook-javascript/classes/Hook.Collection.html#method_each)
+- [hook.collection().where()](http://doubleleft.github.io/hook-javascript/classes/Hook.Collection.html#method_where)
+- [hook.collection().create()](http://doubleleft.github.io/hook-javascript/classes/Hook.Collection.html#method_create)
+- [hook.collection().increment()](http://doubleleft.github.io/hook-javascript/classes/Hook.Collection.html#method_increment)
+- [hook.collection().sort()](http://doubleleft.github.io/hook-javascript/classes/Hook.Collection.html#method_sort)
+- [hook.collection().each()](http://doubleleft.github.io/hook-javascript/classes/Hook.Collection.html#method_each)
