@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>hook example: oauth</title>
+
+    <!-- vendor dependencies -->
+    <script src="../vendor/jquery.min.js"></script>
+    <script src="../vendor/hook.js"></script>
+    <script src="../vendor/oauth.js"></script>
+
+    <!-- application logic -->
+    <script src="app.js"></script>
+
+    <!-- custom stylesheet -->
+    <style type="text/css">
+      .hidden { display: none }
+    </style>
+
+  </head>
+  <body>
+
+    <div class="not-logged-in">
+      <form>
+        <a href="#" id="bt-login">Login with Facebook</a>
+      </form>
+      <div id="message"></div>
+    </div>
+
+    <div class="logged-in hidden">
+      <div class="user-data"></div>
+      <a href="#" id="bt-logout">Logout</a>
+    </div>
+
+  </body>
+</html>
+
+

@@ -1,0 +1,6 @@
+oauth:
+  # Documentation:
+  # http://doubleleft.github.io/hook-userguide/The-Basics/Authentication/#oauth
+  Facebook:
+    app_id: '1598541887079097'
+    app_secret:  '52618f963a7cc55d6855df9f5bec6544'

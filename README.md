@@ -4,6 +4,7 @@ hook-examples
 A collection of [hook](https://github.com/doubleleft/hook) usage examples.
 
 - [Simple Pool](simple-poll) ([online demo](http://doubleleft.github.io/hook-examples/simple-poll/index.html))
+- [OAuth](simple-poll) ([online demo](http://doubleleft.github.io/hook-examples/oauth/index.html))
 
 Running locally
 ---
